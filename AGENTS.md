@@ -1,9 +1,10 @@
 # 이 저장소의 규칙
 
 - 프로젝트: Cloud Run으로 돌아가는 간단한 웹페이지
-- GCP 프로젝트 ID: (3단계에서 채움)
+- GCP 프로젝트 ID: gcp-prod-edp-edge-509423
 - 리전: asia-northeast3
 - Cloud Run 서비스 이름: my-web
+- Service URL: https://my-web-541022739403.asia-northeast3.run.app
 
 ## 꼭 지킬 것
 - 브랜치 이름은 agent/<이슈번호>-<짧은설명>
